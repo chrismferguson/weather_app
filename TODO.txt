@@ -1,7 +1,10 @@
 pixel art weather -- some cool images we can use
 
-add a few features that are not from a tutorial
+make it widescreen
+
+this will be for my website, portfolio, my name is at the bottom, github link. 
 
 84c96075b43a072c13b208bc165be27e
 
-hi
+switch to fahrenheit from celsius
+https://dev.to/comfortdeola/lets-build-a-weather-application-with-javascript-5agf
